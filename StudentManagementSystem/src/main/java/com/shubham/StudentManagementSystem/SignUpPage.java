@@ -119,7 +119,7 @@ public class SignUpPage {
 			                if (SwingUtilities.isLeftMouseButton(e) || SwingUtilities.isRightMouseButton(e) || SwingUtilities.isMiddleMouseButton(e)) {
 			                 
 			                	f.dispose();
-			                	//new LoginPage();
+			                	new LoginPage();
 			                	
 			                }
 			            }
