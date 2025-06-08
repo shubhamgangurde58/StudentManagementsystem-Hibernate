@@ -6,5 +6,7 @@ public class App {
 
     	System.out.println("!!! Welcom To Student Management System !!!");
 
+    	new SignUpPage();
+    	
     }
 }
